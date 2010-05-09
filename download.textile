@@ -1,8 +1,7 @@
 ---
-title: Download
-inMenu: true
-lang: en
-orderInfo: 3
+layout: default
+title: JRetrofit - Download
+active: download
 ---
 Download the jar from here:
 

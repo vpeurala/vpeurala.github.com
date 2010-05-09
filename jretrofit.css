@@ -9,8 +9,8 @@ body {
   background-repeat: no-repeat;
   background-position: top center;
   background-attachment: fixed;
-  background-color: #000000;
-  color: #ffffff;
+  background-color: #ffffff;
+  color: #000000;
 }
 a { color: #888888; }
 a:hover {
@@ -44,7 +44,7 @@ img {
 }
 #layoutdims {
   clear: both;
-  background-color: #000000;
+  background-color: #ffffff;
   margin: 0;
   padding: 6px 15px;
   text-align: right;
@@ -68,7 +68,7 @@ img {
   position: relative;
   padding: 0 0 1em 0;
   overflow: hidden;
-  background-color: #000000;
+  background-color: #dddddd;
 }
 .col2, .col3 {
   float: left;
@@ -76,10 +76,10 @@ img {
   padding: 0 0 1em 0;
   overflow: hidden;
 }
-.rightmenu { background: #222222; }
+.rightmenu { background: #888888; }
 .rightmenu .colleft {
   right: 40%;
-  background: #000000;
+  background: #dddddd;
 }
 .rightmenu .col1 {
   width: 56%;
@@ -99,7 +99,7 @@ img {
   margin: 0;
 }
 #centeredmenu {
-  background-color: #000000;
+  background-color: #ffffff;
   overflow: hidden;
   position: relative;
   width: 800px;
@@ -131,7 +131,7 @@ img {
   display: block;
   margin: 0 0 0 1px;
   padding: 3px 10px;
-  background-color: #000000;
+  background-color: #ffffff;
   color: #000000;
   text-decoration: none;
   line-height: 1.3em;

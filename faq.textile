@@ -1,8 +1,7 @@
 ---
-title: FAQ
-inMenu: true
-lang: en
-orderInfo: 6
+layout: default
+title: JRetrofit - FAQ
+active: faq
 ---
 *Q: Which version of Java does it require?*
 

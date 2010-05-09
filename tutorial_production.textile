@@ -1,8 +1,7 @@
 ---
-title: Tutorial (Production)
-inMenu: true
-lang: en
-orderInfo: 4
+layout: default
+title: JRetrofit - Tutorial (Production)
+active: tutorial_production
 ---
 h2. Using JRetrofit in production code
 

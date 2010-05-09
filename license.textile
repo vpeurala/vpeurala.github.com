@@ -1,8 +1,7 @@
 ---
-title: License
-inMenu: true
-lang: en
-orderInfo: 2
+layout: default
+title: JRetrofit - License
+active: license
 ---
 Apache License, Version 2.0
 
