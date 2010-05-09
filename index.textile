@@ -1,8 +1,7 @@
 ---
-title: About
-inMenu: true
-lang: en
-orderInfo: 1
+layout: default
+title: JRetrofit
+active: index
 ---
 JRetrofit is a library for adding interfaces to existing classes at runtime.
 
