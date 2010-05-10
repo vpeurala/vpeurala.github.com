@@ -52,7 +52,7 @@ img {
 .colmask {
   position: relative;
   clear: both;
-  max-width: 800px;
+  max-width: 1200px;
   overflow: hidden;
   display: block;
   margin-left: auto;
@@ -131,10 +131,12 @@ img {
   display: block;
   margin: 0 0 0 1px;
   padding: 3px 10px;
-  background-color: #ffffff;
-  color: #000000;
+  background-color: #ff3300;
+  color: #ffffff;
   text-decoration: none;
   line-height: 1.3em;
+  font-size: 120%; 
+  border: 2px solid black;
 }
 #centeredmenu ul li a:hover { color: #888888; }
 #centeredmenu ul li a.selected { color: #888888; }
@@ -143,4 +145,7 @@ img {
   float: right;
   padding-left: 1em;
   font-size: 90%;
+}
+code {
+  font-size: 120%;
 }
