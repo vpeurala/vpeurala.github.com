@@ -5,7 +5,7 @@ body {
   width: 100%;
   font-size: 80%;
   font-family: arial, sans-serif;
-  background-image: url("images/gradient.png");
+  background-image: url("../images/gradient.png");
   background-repeat: repeat-x;
   background-position: top center;
   background-attachment: fixed;
@@ -66,7 +66,7 @@ img {
 .col1 {
   float: left;
   position: relative;
-  padding: 10px;
+  padding: 10px 10px 10px 0px;
   overflow: hidden;
   background-color: #dddddd;
 }

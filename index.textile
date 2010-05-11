@@ -11,14 +11,14 @@ Here is a really simple example:
 
 You have an interface like this:
 
-<pre class="example"><code>public interface Nameable {
+<pre class="brush: java">public interface Nameable {
     public String getName();
 }
-</code></pre>
+</pre>
 
 and a class like this:
 
-<pre class="example"><code>/**
+<pre class="brush: java">/**
  * Note that this class does not implement any interfaces.
  */
 public class LegacyClass {
@@ -26,7 +26,7 @@ public class LegacyClass {
         return "foo!";
     }
 }
-</code></pre>
+</pre>
 
 You would like to call all classes with method <code>getName()</code> polymorphically,
 but you cannot, for some reason or another, change class <code>LegacyClass</code> in any way
@@ -38,8 +38,9 @@ you don't have access to its source code at all.
 JRetrofit to the rescue! You can make <code>LegacyClass</code> implement <code>Nameable</code> at
 runtime, like this:
 
-<pre class="example"><code>LegacyClass legacy = new LegacyClass();
+<pre class="brush: java">LegacyClass legacy = new LegacyClass();
 Nameable retrofittedLegacy = Retrofit.partial(legacy, Nameable.class);
 // And now you can use retrofittedLegacy just like 
 // any other class which implements Nameable!
+retrofittedLegacy.getName();
 </code></pre>
