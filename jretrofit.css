@@ -5,17 +5,17 @@ body {
   width: 100%;
   font-size: 80%;
   font-family: arial, sans-serif;
-  background-image: url("ccg_wallpaper1.jpg");
-  background-repeat: no-repeat;
+  background-image: url("images/gradient.png");
+  background-repeat: repeat-x;
   background-position: top center;
   background-attachment: fixed;
-  background-color: #ffffff;
+  /*background-color: #ff7f2a;*/
   color: #000000;
 }
-a { color: #888888; }
+a { color: #444400; }
 a:hover {
   color: #000000;
-  background-color: #aaaaaa;
+  background-color: #ffffff;
   text-decoration: none;
 }
 h1, h2, h3 {
@@ -66,7 +66,7 @@ img {
 .col1 {
   float: left;
   position: relative;
-  padding: 0 0 1em 0;
+  padding: 10px;
   overflow: hidden;
   background-color: #dddddd;
 }
@@ -148,4 +148,8 @@ img {
 }
 code {
   font-size: 120%;
+}
+pre {
+  background-color: #eeeeee;
+  padding: 20px;
 }

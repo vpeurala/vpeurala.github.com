@@ -9,7 +9,7 @@ Apache License, Version 2.0
 
 <pre>
 <code>
-   Copyright 2006 Ville Peurala
+   Copyright 2006-2010 Ville Peurala
    
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.

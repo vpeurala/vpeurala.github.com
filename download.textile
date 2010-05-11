@@ -10,6 +10,6 @@ Download the jar from here:
 Just put it in your classpath and start using it.
 See the tutorials on this website for usage examples.
 
-The source code is here:
+The source code is on GitHub:
 
-"http://svn.laughingpanda.org/svn/jretrofit/trunk/":http://svn.laughingpanda.org/svn/jretrofit/trunk/
+"http://github.com/vpeurala/JRetrofit":http://github.com/vpeurala/JRetrofit
