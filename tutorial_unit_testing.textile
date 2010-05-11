@@ -1,7 +1,6 @@
 ---
 layout: default
 title: JRetrofit - Tutorial (Unit testing)
-active: tutorial_unit_testing
 ---
 h2. Using JRetrofit in unit tests (for dependency stubbing)
 

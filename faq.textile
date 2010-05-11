@@ -1,7 +1,6 @@
 ---
 layout: default
 title: JRetrofit - FAQ
-active: faq
 ---
 *Q: Which version of Java does it require?*
 

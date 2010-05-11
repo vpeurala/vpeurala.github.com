@@ -1,21 +1,18 @@
 ---
 layout: default
 title: JRetrofit - Author
-active: author
 ---
-JRetrofit is originally and mostly written by Ville Peurala (me). Other contributors include:
-
+JRetrofit is originally and mostly written by Ville Peurala (me). Other contributors:
 * Antti Mattila
 
-I live in Helsinki, Finland and work for 
-"Reaktor":http://www.reaktor.fi. 
+I live in Helsinki, Finland and work for "Reaktor":http://www.reaktor.fi. 
 
 If you like JRetrofit, you might also be interested in my other open source projects (all released under liberal Apache 2.0 License, so you can use them practically anywhere).
 
-* "typedgroup":http://typedgroup.sourceforge.net/
+* "typedgroup":http://www.laughingpanda.org/projects/typedgroup/
 * "islands":http://github.com/vpeurala/islands/
 
-Check out my band, "Cold Cold Ground":http://www.coldcoldground.com.
+Check out my band, "Cold Cold Ground":http://www.coldcoldground.com:
 
 !images/cold_cold_ground.jpg!:http://www.coldcoldground.com 
 

@@ -1,7 +1,6 @@
 ---
 layout: default
 title: JRetrofit - Download
-active: download
 ---
 Download the jar from here:
 

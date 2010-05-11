@@ -139,7 +139,7 @@ img {
   border: 2px solid black;
 }
 #centeredmenu ul li a:hover { color: #888888; }
-#centeredmenu ul li a.selected { color: #888888; }
+#centeredmenu ul li a.selected { color: #444444; background-color: #666600; }
 #centeredmenu ul li a.selected:hover { color: #888888; }
 .date {
   float: right;
